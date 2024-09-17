@@ -1,0 +1,6 @@
+﻿  QuizProject.cpp
+C:\Users\andre\source\repos\QuizProject\QuizProject.cpp(172,131): warning C4101: 'CURRRENTSCORE2': unreferenced local variable
+C:\Users\andre\source\repos\QuizProject\QuizProject.cpp(1406,131): warning C4101: 'CURRRENTSCORE2': unreferenced local variable
+C:\Users\andre\source\repos\QuizProject\QuizProject.cpp(2631,131): warning C4101: 'CURRRENTSCORE2': unreferenced local variable
+C:\Users\andre\source\repos\QuizProject\QuizProject.cpp(3859,131): warning C4101: 'CURRRENTSCORE2': unreferenced local variable
+  QuizProject.vcxproj -> C:\Users\andre\source\repos\QuizProject\x64\Debug\QuizProject.exe
